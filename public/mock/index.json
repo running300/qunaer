@@ -1,0 +1,191 @@
+{
+  "data": {
+    "city": "长沙",
+    "swiperList": [
+      {
+        "id": "001",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20201/be6871c9b0b0ffab3ef2a86fa9688677.jpg"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201912/0b26e9760c2673c63c05e1efce1275ea.jpg_750x200_495c0a72.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "001",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      },
+      {
+        "id": "002",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "desc": "天门山"
+      },
+      {
+        "id": "003",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "长沙必游"
+      },
+      {
+        "id": "004",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "张家界公园"
+      },
+      {
+        "id": "005",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/e3/67df61427c8e1302.png",
+        "desc": "演出"
+      },
+      {
+        "id": "006",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+        "desc": "动植物园"
+      },
+      {
+        "id": "007",
+        "iconImg": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/91a810441506568937171df66f754375.png",
+        "desc": "红石林"
+      },
+      {
+        "id": "008",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/b8/c5dcdb58deec2402.png",
+        "desc": "凤凰古城"
+      },
+      {
+        "id": "009",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/ab/6f7d6e44963c9302.png",
+        "desc": "温泉滑雪"
+      },
+      {
+        "id": "010",
+        "iconImg": "http://img1.qunarzz.com/piao/fusion/1803/87/20656da0ac042002.png",
+        "desc": "玻璃桥"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1903/b0/b0a81289b537c934a3.water.jpg_200x200_816c0f59.jpg",
+        "tag": "可定今日",
+        "title": "澳门蹦极(笨猪跳)",
+        "commentNum": "2754",
+        "price": "128",
+        "district": "澳门"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1705/c2/c2249cf7d5ae5b71a3.img.jpg_200x200_a45459dc.jpg",
+        "tag": "可定今日",
+        "title": "维多利亚海港",
+        "commentNum": "4049",
+        "price": "167",
+        "district": "油尖旺"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1705/c2/c2249cf7d5ae5b71a3.img.jpg_200x200_a45459dc.jpg",
+        "tag": "可定今日",
+        "title": "澳门巴黎人自主餐厅",
+        "commentNum": "671",
+        "price": "196",
+        "district": "澳门"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1501/df/dfd428066cc4a607.water.jpg_200x200_f41c6cfc.jpg",
+        "tag": "可定今日",
+        "title": "香港杜莎夫人蜡像馆",
+        "commentNum": "11245",
+        "price": "151.1",
+        "district": "香港岛"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1502/fc/fcb0e7a201e35e9c.water.jpg_200x200_2d1b86b5.jpg",
+        "tag": "可定今日",
+        "title": "澳门威尼斯人度假村",
+        "commentNum": "5537",
+        "price": "103",
+        "district": "澳门"
+      },
+      {
+        "id": "006",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1912/78/78fdc5a98b55aaefa3.water.jpg_200x200_e88eacea.jpg",
+        "tag": "可定今日",
+        "title": "香港迪士尼乐园",
+        "commentNum": "132376",
+        "price": "10",
+        "district": "离岛"
+      },
+      {
+        "id": "007",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201305/30/bcfc83ddc78550dcc8d65eac.jpg_200x200_95e02fbf.jpg",
+        "tag": "可定今日",
+        "title": "太平山顶",
+        "commentNum": "14667",
+        "price": "63",
+        "district": "香港岛"
+      },
+      {
+        "id": "008",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/2001/8d/8d7226ecdd14ab82a3.water.jpg_200x200_b1becf91.jpg",
+        "tag": "可定今日",
+        "title": "香港海洋公园",
+        "commentNum": "66810",
+        "price": "63",
+        "district": "香港岛"
+      },
+      {
+        "id": "009",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201403/10/538327735b9ace87fb3cff96caf9285d.jpg_200x200_0b36f622.jpg",
+        "tag": "可定今日",
+        "title": "香港机场快线",
+        "commentNum": "2810",
+        "price": "47",
+        "district": "香港"
+      },
+      {
+        "id": "010",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1602/45/459bd3d00321a44790.water.jpg_200x200_6cd905a1.jpg",
+        "tag": "可定今日",
+        "title": "景山公园",
+        "commentNum": "5096",
+        "price": "5",
+        "district": "西城区"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/fb/302620ed8350f8.jpg_r_640x214_25a07cb4.jpg",
+        "title": "长沙必打卡",
+        "desc": "到了长沙一定要到这些地方走走"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1711/2b/d4ebbd8337f1ac.jpg_r_640x214_2d4332c1.jpg",
+        "title": "湖南泡汤圣地",
+        "desc": "山谷幽深，泉水潺潺，宜人的自然风光，怡人的田园景色，动人的神话传说，是一处难得的世外桃园"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/88/8d3b492ebf0b16.jpg_r_640x214_7b3a281d.jpg",
+        "title": "邂逅凤凰",
+        "desc": "凤凰古城一个古老而神秘的地方，风景秀丽，历史悠久，人杰地灵，名贤辈出，名胜古迹众多"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1811/b4/71c01c98139cf.jpg_r_640x214_30bac495.jpg",
+        "title": "亲身体验人间仙境",
+        "desc": "天桥天地，绝壁高崖之间的高台，台下深不见底的山涧，天风朗朗，云气翻腾，仙境之感扑面而来"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/89/b2beff9f28b0db.jpg_r_640x214_94143396.jpg",
+        "title": "玩味童年",
+        "desc": "幸福之家,快乐成长"
+      }
+    ]
+  }
+}
